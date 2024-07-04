@@ -140,7 +140,7 @@ graph TD;
 
 | 1. Open [draw.io](https://draw.io), open Mermaid window | 2. Copy and paste mermaid graph from edge_workflow.md | 3. Export to PDF |
 | ------------------------------------------------------- | ----------------------------------------------------- | ---------------- |
-| ![[docs/1.png]]                                              | ![[docs/2.png]]                                            | ![[docs/3.png]]       |
+| ![](docs/1.png)                                              | ![](docs/2.png)                                            | ![](docs/3.png)       |
 
 ## License
 
