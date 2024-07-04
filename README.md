@@ -17,7 +17,7 @@ A single-file random labeled-DAG generator.
 
 ## Usage
 
-First, copy `random_graph_generator.py` to your project. Then, depending on your preference:
+First, copy [random_graph_generator.py](random_graph_generator.py) to your project. Then, depending on your preference:
 
 ```python
 from random_graph_generator import generate_random_graph, load_workflows
