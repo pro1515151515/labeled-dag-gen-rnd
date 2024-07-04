@@ -142,6 +142,30 @@ graph TD;
 | ------------------------------------------------------- | ----------------------------------------------------- | ---------------- |
 | ![](docs/1.png)                                              | ![](docs/2.png)                                            | ![](docs/3.png)       |
 
-## License
 
+## Citation
+Please cite our work if you use this software in your work:
+
+**BibTex:**
+```bibtex
+@misc{LabeledWorkflowGFHS,
+  author = {Cheng Qian},
+  title = {Labeled Workflow Generator for Heterogeneous Scheduling Research},
+  year = {2024},
+  howpublished = {\url{https://github.com/pro1515151515/labeled-dag-gen-rnd}},
+  note = {Accessed: 2024-07-04}
+}
+```
+
+**GB/T 7714-2015:**
+```
+Qian C. Labeled workflow generator for heterogeneous scheduling research[CP/OL]. [2024-07-04]. https://github.com/pro1515151515/labeled-dag-gen-rnd.
+```
+
+## Related Repository
+- [automaticdai/dag-gen-rnd](https://github.com/automaticdai/dag-gen-rnd/tree/master)
+
+
+
+## License
 This software is licensed under MIT. See [LICENSE](LICENSE) for details.
